@@ -5,4 +5,5 @@
 </a>
 
 - 🌱 I’m currently learning about JS/TS and front-end in general
+- :office:  Working at @uncisal with python/DJango
 - 📫 How to reach me: matheuscostaca156@gmail.com
